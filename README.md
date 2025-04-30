@@ -1,5 +1,3 @@
-# Python
-
 # 🎬 IMDb Top 1000 Movies - Exploratory Data Analysis (EDA)
 
 This project presents an Exploratory Data Analysis (EDA) of the **IMDb Top 1000 Movies** dataset. It explores trends and insights from movies based on their ratings, genre, duration, gross earnings, and other features using Python libraries like Pandas, Matplotlib, and Seaborn.
